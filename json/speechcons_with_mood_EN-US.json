@@ -1,0 +1,754 @@
+[
+  {
+    "speechcon": "abracadabra",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "achoo",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "aha",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ahem",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ahoy",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "all righty",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "aloha",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "aooga",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "argh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "arrivederci",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "as you wish",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "au revoir",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "aw man",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "baa",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "bada bing bada boom",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "bah humbug",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "bam",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "bang",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "batter up",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bazinga",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "beep beep",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bingo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "blah",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "blarg",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "blast",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "boing",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bon appetit",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bonjour",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bon voyage",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "boo",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "boo hoo",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "boom",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "booya",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "bravo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "bummer",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "caw",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "cha ching",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "checkmate",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "cheerio",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "cheers",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "cheer up",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "chirp",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "choo choo",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "clank",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "click clack",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "cock a doodle doo",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "coo",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "cowabunga",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "darn",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ding dong",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ditto",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "d’oh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "dot dot dot",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "duh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "dum",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "dun dun dun",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "dynomite",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "eek",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "eep",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "encore",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "en gard",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "eureka",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "fancy that",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "geronimo",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "giddy up",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "good grief",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "good luck",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "good riddance",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "gotcha",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "great scott",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "heads up",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "hear hear",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "hip hip hooray",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "hiss",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "honk",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "howdy",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "hurrah",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "hurray",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "huzzah",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "jeepers creepers",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "jiminy cricket",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "jinx",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "just kidding",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "kaboom",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kablam",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kaching",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kapow",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "katchow",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kazaam",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kerbam",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kerboom",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kerching",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kerchoo",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kerflop",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kerplop",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kerplunk",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kerpow",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kersplat",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kerthump",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "knock knock",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "le sigh",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "look out",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "mamma mia",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "man overboard",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "mazel tov",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "meow",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "merci",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "moo",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "nanu nanu",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "neener neener",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "no way",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "now now",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "oh boy",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oh brother",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oh dear",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oh my",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oh snap",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oink",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "okey dokey",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "oof",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ooh la la",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "open sesame",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ouch",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oy",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "phew",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "phooey",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ping",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "plop",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "poof",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "pop",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "pow",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "quack",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "read ‘em and weep",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ribbit",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "righto",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "roger",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ruh roh",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "shucks",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "splash",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "spoiler alert",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "squee",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "swish",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "swoosh",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ta da",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "ta ta",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "tee hee",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "there there",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "thump",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "tick tick tick",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "tick-tock",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "touche",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "tsk tsk",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "tweet",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "uh huh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "uh oh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "voila",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "vroom",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "wahoo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "wah wah",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "watch out",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "way to go",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "well done",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "well well",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "wham",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "whammo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "whee",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "whew",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "woof",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "whoops a daisy",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "whoosh",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "woo hoo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "wow",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "wowza",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "wowzer",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "yadda yadda yadda",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "yay",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "yikes",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "yippee",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "yoink",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "yoo hoo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "you bet",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "yowza",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "yowzer",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "yuck",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "yum",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "zap",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "zing",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "zoinks",
+    "mood": "negativ"
+  }
+]

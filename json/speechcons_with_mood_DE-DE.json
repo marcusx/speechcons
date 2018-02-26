@@ -1,0 +1,726 @@
+[
+  {
+    "speechcon": "aber hallo",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "aber sicher",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "abrakadabra",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "ach",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ach du grüne neune",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ach du liebe zeit",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ach du meine güte",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ach ja",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ach so",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "achje",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "achtung",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ade",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ah",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "aha",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ähm",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ahoi",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "alles klar",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "aloha",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "als ob",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "argh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "arrivederci",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "aso",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "au",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "au weia",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "aua",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "autsch",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "bazinga",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "bingo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "bis bald",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bis dann",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bla",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "boing",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bon appetit",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bon voyage",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bonjour",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bravo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "brumm",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "buh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "buhu",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "bumm",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "bzz",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "da lachen ja die hühner",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ding dong",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "dito",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "donner und doria",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "donnerwetter",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "ebenso",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "en garde",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ey",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "geh nur",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "gemach",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "genug",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "gesundheit",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "gott im himmel",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "grüß gott",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "gute reise",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "guten appetit",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "hach ja",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "halleluja",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "hals und beinbruch",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "halt",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "hände hoch",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "heiliger strohsack",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "heisa",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "hey",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "hihi",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "hipp hipp hurra",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "hört hört",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "hü",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "hüa",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "huch",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "huhu",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "hui",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "hurra",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "ich glaub ich bin im kino",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ich glaub mein schwein pfeift",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ich glaub mich knutscht ein elch",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ich glaub mich laust der affe",
+    "mood": "neagtiv"
+  },
+  {
+    "speechcon": "ich glaub mich tritt ein pferd",
+    "mood": "neagtiv"
+  },
+  {
+    "speechcon": "igitt",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "iiieh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ist nicht dein ernst",
+    "mood": "neagtiv"
+  },
+  {
+    "speechcon": "japp",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "jawohl",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "jo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "juhu",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "kein kommentar",
+    "mood": "neagtiv"
+  },
+  {
+    "speechcon": "keine ursache",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "kikeriki",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "klar",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "klick klack",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "kopf hoch",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "kuckuck",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "lass es dir schmecken",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "lecker",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "los",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "mach's gut",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "mahlzeit",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "mamma mia",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "mann über bord",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "manometer",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "mazel tov",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "mein gott",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "merci",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "miau",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "mist",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "moin",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "muh",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "na klar",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "na sieh mal einer an",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "na und?",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "na?",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "naja",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "nanu?",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "ne",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "nee",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "nichts da",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "nix da",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "nö",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "null problemo",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "obacht",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "och",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oh mann",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oh mein gott",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oh my god",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oh nein",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oh oh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "ohne scheiß",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oink",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "oje",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "okey dokey",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "ooh la la",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "pfui",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "piep",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "plop",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "plumps",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "prima",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "prosit",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "prost",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "puff",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "puh",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "pustekuchen",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "schachmatt",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "schade",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "schau an",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "sesam öffne dich",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "seufz",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "sieh an",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "siehe da",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "siehste?",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "spoileralarm",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "stimmt",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "super",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "supi",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "süßes oder saures",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "tada",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "tatsächlich",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "tick tack",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "tja",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "touche",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "tschö",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "türlich",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "tut",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "uff",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "verdammt",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "verflixt",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "viel glück",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "voila",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "von wegen",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "vorsicht",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "war nur ein scherz",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "was zur hölle",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "weh mir",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "wehe",
+    "mood": "negativ"
+  },
+  {
+    "speechcon": "wie du meinst",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "willkommen",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "wow",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "wuff",
+    "mood": "neutral"
+  },
+  {
+    "speechcon": "yay",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "zugabe",
+    "mood": "positiv"
+  },
+  {
+    "speechcon": "zum wohl",
+    "mood": "neutral"
+  }
+]
